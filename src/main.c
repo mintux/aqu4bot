@@ -1,5 +1,12 @@
 /*aqu4, daughter of pr0t0, half-sister to Johnsbot!
- * Copyright 2014 Subsentient, all rights reserved.*/
+ * Copyright 2014 Subsentient, all rights reserved.
+ * Hostname=irc.freenode.net
+Nick=aqu42
+Admin=*!*@unaffiliated/subsen
+Channel=#epoch
+Channel=##aqu4bot
+ *
+ * */
 //Test
 
 #include <stdio.h>
