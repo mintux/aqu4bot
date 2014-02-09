@@ -2,3 +2,4 @@ aqu4bot.conf
 aqu4bot
 src/*.o
 src/*.gch
+/src
